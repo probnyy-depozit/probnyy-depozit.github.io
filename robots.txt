@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: probnyy-depozit.github.io
+Sitemap: https://probnyy-depozit.github.io/sitemap.xml
